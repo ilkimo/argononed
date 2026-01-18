@@ -54,7 +54,7 @@ In `flake.nix`, add:
 }
 ```
 
-In a new module (or `configuraion.nix`):
+In a new module (or `configuration.nix`):
 ```nix
 { argononed, ...}:
 {
